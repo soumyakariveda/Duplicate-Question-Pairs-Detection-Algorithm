@@ -2,7 +2,7 @@ asn1crypto==0.24.0
 backports-abc==0.5
 backports.functools-lru-cache==1.5
 backports.shutil-get-terminal-size==1.0.0
-bleach==3.0.2
+bleach==3.3.0
 configparser==3.5.0
 cryptography==2.1.4
 cycler==0.10.0
